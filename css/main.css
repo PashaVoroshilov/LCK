@@ -3891,18 +3891,10 @@ select {
     margin-bottom: 20px;
   }
 
-  .price.product__price {
-    margin-bottom: 30px;
-  }
-
   .product__about,
   .product-sizes__title {
     font-size: 16px;
     line-height: 19px;
-  }
-
-  .product__about {
-    margin-bottom: 60px;
   }
 
   .product__sizes {
