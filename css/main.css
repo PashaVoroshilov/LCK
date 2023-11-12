@@ -3837,7 +3837,7 @@ select {
   }
 
   .product {
-    padding: 60px 0 70px;
+    padding: 30px 0 70px;
   }
 
   .product .container {
@@ -3881,15 +3881,14 @@ select {
   }
 
   .product__firm {
-    font-size: 20px;
-    line-height: 24px;
-    margin-bottom: 24px;
+    font-size: 18px;
+    line-height: 22px;
   }
 
   .product__title {
     font-size: 35px;
     line-height: 41px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
 
   .price.product__price {
@@ -3915,7 +3914,7 @@ select {
   }
 
   .product-sizes__list {
-    row-gap: 30px;
+    row-gap: 15px;
     padding: 30px 0.9375em;
   }
 
